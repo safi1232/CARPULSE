@@ -55,7 +55,7 @@ CarPulse follows a frontend-backend architecture:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/car-frontend.git
+git clone https:/safi1232/github.com//car-frontend.git
 ```
 
 ### 2. Navigate to the Project Directory
