@@ -2,7 +2,7 @@
 
 CarPulse is an AI-powered automotive platform designed to help users make smarter vehicle purchasing decisions. It combines machine learning-based car price prediction with an intelligent recommendation engine to provide data-driven insights into the automotive market.
 
-🚗 **Live Demo:** [CarPulse Web Application](https://carpulse-67gq9o9bh-acme-4a68.vercel.app/)
+🚗 **Live Demo:** [CarPulse Web Application](https://carpulse-ep6slj84g-acme-4a68.vercel.app)
 
 ---
 
